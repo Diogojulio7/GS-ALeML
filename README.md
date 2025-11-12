@@ -1,6 +1,6 @@
 # Projeto - Ferramentas de Monitoramento de Bem-Estar e Saúde Mental no Trabalho
 
-**Curso / Instituição:** FIAP – Engenharia de Software 3ESPR
+FIAP – Engenharia de Software 3ESPR
 **Integrantes:**
 - Diogo Julio - RM553837
 - Jonata Rafael - RM552939
@@ -13,7 +13,7 @@ Desenvolver um projeto de ciência de dados que demonstra como ferramentas e mod
 - `requirements.txt` - dependências necessárias
 - `train.py` - script principal que gera o dataset sintético e executa as 3 análises (classificação, regressão e clusterização)
 - `outputs/` - pasta onde os resultados (modelos, gráficos e relatório) serão gerados após executar `train.py`
-- `ML_Project_Wellbeing.zip` - pacote pronto para entrega (gerado já nesta pasta)
+
 
 ## Como usar
 1. Criar e ativar um ambiente virtual:
@@ -37,4 +37,4 @@ python train.py
 
 ## Observações
 - O dataset é sintético e foi modelado para ilustrar conceitos e técnicas; em um cenário real substitua pelo dataset real da empresa (com anonimização e conformidade com LGPD).
-- O script contém comentários explicativos e seções separadas para cada análise para facilitar o entendimento.
+
